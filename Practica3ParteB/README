@@ -4,7 +4,7 @@ En esta practica se analizo la relacion entre el ancho de banda, la duracion del
 
 ##ACTIVIDADES REALIZADAS 
 Se estudio como el tiempo de bit disminuye al aumentar el ancho de bandaa, lo que permite transmitir, mas informacion en menos tiempo.
-![Punto1.a caso1](Practica3ParteB/Punto1.a caso1.jpg)
+![Punto1.a caso1](./Punto1.a caso1.jpg)
 
 Se calculo en valor del factor Ka, utilizando una amplitud de mensaje constante y diferentes porcentajes de modulacion. 
 La frecuencia portadora se mantuvo a 400 [Hz], debido a que el equipo utilizado trabajo a esa frecuencia. 
