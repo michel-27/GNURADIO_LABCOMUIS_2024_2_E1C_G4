@@ -1,0 +1,15 @@
+## OBJETIVO PRINCIPAL 
+En esta practica se analizo la relacion entre el ancho de banda, la duracion del tiempo de bit, y las caracteristicas de una señal modulada en amplitud AM
+
+##ACTIVIDADES REALIZADAS 
+Se estudio como el tiempo de bit disminuye al aumentar el ancho de banada, lo que permite transmitir, mas informacion en menos tiempo. 
+Se calculo en valor del factor Ka, utilizando una amplitud de mensaje constante y diferentes porcentajes de modulacion. 
+La frecuencia portadora se mantuvo a 400 [Hz], debido a que el equipo utilizado trabajo a esa frecuencia. 
+
+#APRENDIZAJE DE LA PRACTICA 
+Relación ancho de banda-tiempo de bit: A mayor ancho de banda, menor tiempo es el tiempo de bit, debido a que mas informacion puede ser transmitida por unidad de tiempo.
+Modulación AM: comprendimos como se relaciona la amplitud del mensaje y el porcentaje de modulacion con el calculo de ka, y como estas variables afectan la señal modulada 
+
+##RESULTADOS OBTENIDOS 
+El valor de Ka se determino para diferentes porcentajes de modulación, lo que permitió observar cómo este factor varía en función de las características de la señal.
+Se confirmó que la elección de un ancho de banda adecuado impacta directamente la eficiencia temporal de la transmisión de datos.
