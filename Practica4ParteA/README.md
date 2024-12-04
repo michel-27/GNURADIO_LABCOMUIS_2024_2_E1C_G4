@@ -9,3 +9,4 @@ Se utilizó GNU Radio para observar las señales capturadas y realizar medicione
 Profundizamos en aspectos como el ancho de banda, densidad espectral de potencia, y las características de diferentes tipos de emisoras.
 
 
+![Punto 2 a caso 3](https://github.com/user-attachments/assets/e4dc3478-7542-4114-9fee-aa0367c6e47b)
